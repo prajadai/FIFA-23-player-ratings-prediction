@@ -26,6 +26,9 @@ Place the downloaded `players_23.csv` in the `data/` folder.
 - **RMSE**: ~1.5 points
 - **R² Score**: ~0.95 (explains 95% of variance)
 
+![Actual vs Predicted Ratings](images/actual_vs_predicted.png)
+!(images/prediction1.png)
+
 **Top 5 Most Important Features:**
 1. Potential
 2. Value (€)
