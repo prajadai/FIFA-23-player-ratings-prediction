@@ -11,7 +11,6 @@ Predicting FIFA 23 player overall ratings using machine learning techniques.
 Build a model to predict player overall ratings (60-99) based on player attributes, enabling better player valuation and team building insights.
 
 ## 📁 Dataset
-## 📁 Dataset
 Download from: [Kaggle FIFA 23 Complete Player Dataset](https://www.kaggle.com/datasets/...)
 
 Place the downloaded `players_23.csv` in the `data/` folder.
